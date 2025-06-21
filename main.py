@@ -6,7 +6,7 @@ from aiogram.filters import CommandStart
 from aiogram.client.bot import DefaultBotProperties
 from aiogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
-BOT_TOKEN = "ВАШ_ТОКЕН_ЗДЕСЬ"  # для локального тестирования
+BOT_TOKEN = "7850710477:AAFx757EJmgyHvT_x4sNGg4WRbyn3_fZSaM"  # для локального тестирования
 ADMIN_IDS = [7212288453]
 
 channels_to_show = [
